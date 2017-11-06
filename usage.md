@@ -1,5 +1,7 @@
 Contents of this repo are from https://github.com/bootstraponline/create-react-app-typescript-1/tree/master/packages/react-scripts
 
+Primary benefit of `create-react-app-typescript-1` is having CI setup on Travis / Bitrise. However `--scripts-version=` won't work when pointed at the full `create-react-app`. That's why this repo exists, to enable the scripts package to be installed directly from GitHub.
+
 Install with:
 
 ```
